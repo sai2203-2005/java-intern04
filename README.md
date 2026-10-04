@@ -17,8 +17,8 @@ A console-based **Student Management System** written in Java. This project allo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sivasekhar-939/java-internship04.git
-   cd java-internship04
+   git clone https://github.com/sai2203-2005/java-intern04.git
+   cd java-intern04
    ```
 
 2. **Compile the Java file**:
